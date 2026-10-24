@@ -1,0 +1,209 @@
+make,model,year,msrp_low,msrp_high,label,page_heading,url,scraped_at
+Toyota,Camry,2007,"18,470","28,020",MSRP,2007 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2007,2026-10-23T23:12:19.749Z
+Toyota,Camry,2008,"18,570","28,120",MSRP,2008 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2008,2026-10-23T23:12:20.172Z
+Toyota,Camry,2009,"19,145","28,695",Original MSRP,2009 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2009,2026-10-23T23:12:20.747Z
+Toyota,Camry,2010,"19,395","29,045",Original MSRP,2010 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2010,2026-10-23T23:12:21.324Z
+Toyota,Camry,2011,"20,195","29,845",Original MSRP,2011 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2011,2026-10-23T23:12:21.844Z
+Toyota,Camry,2012,"22,055","30,115",Original MSRP,2012 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2012,2026-10-23T23:12:22.424Z
+Toyota,Camry,2013,"22,235","30,465",Original MSRP,2013 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2013,2026-10-23T23:12:23.150Z
+Toyota,Camry,2014,"22,425","30,705",Original MSRP,2014 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2014,2026-10-23T23:12:23.719Z
+Toyota,Camry,2015,"22,970","31,370",Original MSRP,2015 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2015,2026-10-23T23:12:24.150Z
+Toyota,Camry,2016,"23,070","31,370",Original MSRP,2016 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2016,2026-10-23T23:12:24.773Z
+Toyota,Camry,2017,"23,070","31,370",Original MSRP,2017 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2017,2026-10-23T23:12:25.821Z
+Toyota,Camry,2018,"23,645","35,100",Original MSRP,2018 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2018,2026-10-23T23:12:26.444Z
+Toyota,Camry,2019,"24,095","34,850",Original MSRP,2019 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2019,2026-10-23T23:12:39.097Z
+Toyota,Camry,2020,"24,425","35,130",Original MSRP,2020 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2020,2026-10-23T23:12:39.666Z
+Toyota,Camry,2021,"25,045","35,620",Original MSRP,2021 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2021,2026-10-23T23:12:40.350Z
+Toyota,Camry,2022,"25,845","36,270",Original MSRP,2022 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2022,2026-10-23T23:12:41.012Z
+Toyota,Camry,2023,"26,320","36,745",Original MSRP,2023 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2023,2026-10-23T23:12:41.923Z
+Toyota,Camry,2024,"26,420","36,845",MSRP,2024 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2024,2026-10-23T23:12:42.784Z
+Toyota,Camry,2025,"28,700","36,425",MSRP,2025 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry/2025,2026-10-23T23:12:43.421Z
+Toyota,Camry,2026,"29,000","36,725",MSRP,2026 Toyota Camry,https://cars.usnews.com/cars-trucks/toyota/camry,2026-10-23T23:12:43.863Z
+Toyota,Corolla,2007,"14,305","16,315",MSRP,2007 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2007,2026-10-23T23:12:50.634Z
+Toyota,Corolla,2008,"14,405","16,415",MSRP,2008 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2008,2026-10-23T23:12:56.098Z
+Toyota,Corolla,2009,"15,350","20,050",Original MSRP,2009 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2009,2026-10-23T23:12:57.036Z
+Toyota,Corolla,2010,"15,450","20,150",Original MSRP,2010 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2010,2026-10-23T23:12:57.644Z
+Toyota,Corolla,2011,"15,900","18,600",Original MSRP,2011 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2011,2026-10-23T23:12:58.338Z
+Toyota,Corolla,2012,"16,130","18,820",Original MSRP,2012 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2012,2026-10-23T23:12:58.891Z
+Toyota,Corolla,2013,"16,230","20,550",Original MSRP,2013 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2013,2026-10-23T23:12:59.428Z
+Toyota,Corolla,2014,"16,800","21,300",Original MSRP,2014 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2014,2026-10-23T23:13:00.061Z
+Toyota,Corolla,2015,"16,950","22,955",Original MSRP,2015 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2015,2026-10-23T23:13:00.668Z
+Toyota,Corolla,2016,"17,300","23,125",Original MSRP,2016 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2016,2026-10-23T23:13:01.310Z
+Toyota,Corolla,2017,"18,500","22,680",Original MSRP,2017 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2017,2026-10-23T23:13:01.917Z
+Toyota,Corolla,2018,"18,600","22,780",Original MSRP,2018 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2018,2026-10-23T23:13:02.477Z
+Toyota,Corolla,2019,"18,700","24,240",Original MSRP,2019 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2019,2026-10-23T23:13:03.089Z
+Toyota,Corolla,2020,"19,600","25,550",Original MSRP,2020 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2020,2026-10-23T23:13:03.850Z
+Toyota,Corolla,2021,"20,025","28,310",Original MSRP,2021 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2021,2026-10-23T23:13:04.450Z
+Toyota,Corolla,2022,"20,425","28,710",Original MSRP,2022 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2022,2026-10-23T23:13:05.473Z
+Toyota,Corolla,2023,"21,700","26,850",Original MSRP,2023 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2023,2026-10-23T23:13:06.170Z
+Toyota,Corolla,2024,"22,050","27,150",MSRP,2024 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2024,2026-10-23T23:13:06.786Z
+Toyota,Corolla,2025,"22,325","28,040",MSRP,2025 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2025,2026-10-23T23:13:07.421Z
+Toyota,Corolla,2026,"23,125","28,840",MSRP,2026 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla/2026,2026-10-23T23:13:07.999Z
+Toyota,Corolla,2027,"23,325","29,040",MSRP,2027 Toyota Corolla,https://cars.usnews.com/cars-trucks/toyota/corolla,2026-10-23T23:13:08.854Z
+Toyota,RAV4,2007,"20,950","26,520",MSRP,2007 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2007,2026-10-23T23:13:14.291Z
+Toyota,RAV4,2008,"21,500","27,070",MSRP,2008 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2008,2026-10-23T23:13:22.700Z
+Toyota,RAV4,2009,"21,500","27,810",Original MSRP,2009 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2009,2026-10-23T23:13:23.266Z
+Toyota,RAV4,2010,"21,675","27,985",Original MSRP,2010 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2010,2026-10-23T23:13:23.843Z
+Toyota,RAV4,2011,"22,475","28,785",Original MSRP,2011 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2011,2026-10-23T23:13:24.749Z
+Toyota,RAV4,2012,"22,650","28,650",Original MSRP,2012 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2012,2026-10-23T23:13:25.437Z
+Toyota,RAV4,2013,"23,300","28,410",Original MSRP,2013 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2013,2026-10-23T23:13:26.070Z
+Toyota,RAV4,2014,"23,550","29,720",Original MSRP,2014 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2014,2026-10-23T23:13:33.467Z
+Toyota,RAV4,2015,"23,680","29,850",Original MSRP,2015 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2015,2026-10-23T23:13:34.152Z
+Toyota,RAV4,2016,"24,350","32,910",Original MSRP,2016 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2016,2026-10-23T23:13:34.836Z
+Toyota,RAV4,2017,"24,410","36,150",Original MSRP,2017 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2017,2026-10-23T23:13:35.491Z
+Toyota,RAV4,2018,"24,660","36,400",Original MSRP,2018 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2018,2026-10-23T23:13:36.068Z
+Toyota,RAV4,2019,"25,650","35,050",Original MSRP,2019 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2019,2026-10-23T23:13:36.862Z
+Toyota,RAV4,2020,"25,950","35,880",Original MSRP,2020 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2020,2026-10-23T23:13:48.682Z
+Toyota,RAV4,2021,"26,350","36,280",Original MSRP,2021 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2021,2026-10-23T23:13:49.246Z
+Toyota,RAV4,2022,"26,975","36,915",Original MSRP,2022 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2022,2026-10-23T23:13:49.817Z
+Toyota,RAV4,2023,"28,275","37,980",Original MSRP,2023 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2023,2026-10-23T23:13:50.384Z
+Toyota,RAV4,2024,"28,675","38,380",MSRP,2024 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2024,2026-10-23T23:13:51.315Z
+Toyota,RAV4,2025,"29,800","39,505",MSRP,2025 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4/2025,2026-10-23T23:13:51.929Z
+Toyota,RAV4,2026,"31,900","43,300",MSRP,2026 Toyota RAV4,https://cars.usnews.com/cars-trucks/toyota/rav4,2026-10-23T23:13:52.742Z
+Honda,Civic,2007,"14,810","24,590",MSRP,2007 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2007,2026-10-23T23:13:59.594Z
+Honda,Civic,2008,"14,810","29,500",MSRP,2008 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2008,2026-10-23T23:14:00.144Z
+Honda,Civic,2009,"15,305","24,305",Original MSRP,2009 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2009,2026-10-23T23:14:00.711Z
+Honda,Civic,2010,"15,455","25,340",Original MSRP,2010 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2010,2026-10-23T23:14:01.337Z
+Honda,Civic,2011,"15,605","25,490",Original MSRP,2011 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2011,2026-10-23T23:14:09.222Z
+Honda,Civic,2012,"15,755","27,805",Original MSRP,2012 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2012,2026-10-23T23:14:09.869Z
+Honda,Civic,2013,"17,965","27,965",Original MSRP,2013 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2013,2026-10-23T23:14:10.404Z
+Honda,Civic,2014,"18,190","29,290",Original MSRP,2014 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2014,2026-10-23T23:14:10.933Z
+Honda,Civic,2015,"18,290","29,390",Original MSRP,2015 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2015,2026-10-23T23:14:11.523Z
+Honda,Civic,2016,"18,640","26,500",Original MSRP,2016 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2016,2026-10-23T23:14:12.069Z
+Honda,Civic,2017,"18,740","33,900",Original MSRP,2017 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2017,2026-10-23T23:14:12.650Z
+Honda,Civic,2018,"18,940","34,700",Original MSRP,2018 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2018,2026-10-23T23:14:13.240Z
+Honda,Civic,2019,"19,550","36,300",Original MSRP,2019 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2019,2026-10-23T23:14:13.772Z
+Honda,Civic,2020,"20,000","28,950",Original MSRP,2020 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2020,2026-10-23T23:14:14.344Z
+Honda,Civic,2021,"21,250","43,995",Original MSRP,2021 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2021,2026-10-23T23:14:14.951Z
+Honda,Civic,2022,"22,550","30,050",Original MSRP,2022 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2022,2026-10-23T23:14:15.729Z
+Honda,Civic,2023,"23,750","31,250",Original MSRP,2023 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2023,2026-10-23T23:14:16.358Z
+Honda,Civic,2024,"23,950","31,450",MSRP,2024 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2024,2026-10-23T23:14:17.205Z
+Honda,Civic,2025,"24,250","27,450",MSRP,2025 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic/2025,2026-10-23T23:14:17.993Z
+Honda,Civic,2026,"24,595","30,995",MSRP,2026 Honda Civic,https://cars.usnews.com/cars-trucks/honda/civic,2026-10-23T23:14:19.078Z
+Honda,Accord,2007,"18,625","29,500",MSRP,2007 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2007,2026-10-23T23:14:33.191Z
+Honda,Accord,2008,"20,360","30,510",MSRP,2008 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2008,2026-10-23T23:14:38.987Z
+Honda,Accord,2009,"20,905","31,155",Original MSRP,2009 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2009,2026-10-23T23:14:39.750Z
+Honda,Accord,2010,"21,055","31,305",Original MSRP,2010 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2010,2026-10-23T23:14:40.385Z
+Honda,Accord,2011,"21,380","31,930",Original MSRP,2011 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2011,2026-10-23T23:14:40.987Z
+Honda,Accord,2012,"21,480","32,030",Original MSRP,2012 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2012,2026-10-23T23:14:42.236Z
+Honda,Accord,2013,"21,680","33,430",Original MSRP,2013 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2013,2026-10-23T23:14:42.973Z
+Honda,Accord,2014,"21,955","33,480",Original MSRP,2014 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2014,2026-10-23T23:14:43.814Z
+Honda,Accord,2015,"22,105","33,630",Original MSRP,2015 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2015,2026-10-23T23:14:44.651Z
+Honda,Accord,2016,"22,205","34,680",Original MSRP,2016 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2016,2026-10-23T23:14:45.613Z
+Honda,Accord,2017,"22,455","34,930",Original MSRP,2017 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2017,2026-10-23T23:14:46.342Z
+Honda,Accord,2018,"23,570","35,800",Original MSRP,2018 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2018,2026-10-23T23:14:47.188Z
+Honda,Accord,2019,"23,720","35,950",Original MSRP,2019 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2019,2026-10-23T23:14:47.873Z
+Honda,Accord,2020,"24,270","36,400",Original MSRP,2020 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2020,2026-10-23T23:14:48.626Z
+Honda,Accord,2021,"24,970","36,900",Original MSRP,2021 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2021,2026-10-23T23:14:49.306Z
+Honda,Accord,2022,"26,520","38,450",Original MSRP,2022 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2022,2026-10-23T23:14:50.520Z
+Honda,Accord,2023,"27,295","29,610",Original MSRP,2023 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2023,2026-10-23T23:14:51.577Z
+Honda,Accord,2024,"27,895","29,910",MSRP,2024 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2024,2026-10-23T23:14:52.531Z
+Honda,Accord,2025,"28,295","30,560",MSRP,2025 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord/2025,2026-10-23T23:14:53.583Z
+Honda,Accord,2026,"28,395","30,695",MSRP,2026 Honda Accord,https://cars.usnews.com/cars-trucks/honda/accord,2026-10-23T23:14:54.594Z
+Honda,CR-V,2007,"20,600","28,000",MSRP,2007 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2007,2026-10-23T23:15:02.817Z
+Honda,CR-V,2008,"20,700","28,400",MSRP,2008 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2008,2026-10-23T23:15:03.912Z
+Honda,CR-V,2009,"21,245","27,745",Original MSRP,2009 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2009,2026-10-23T23:15:04.963Z
+Honda,CR-V,2010,"21,545","29,745",Original MSRP,2010 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2010,2026-10-23T23:15:13.705Z
+Honda,CR-V,2011,"21,895","30,095",Original MSRP,2011 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2011,2026-10-23T23:15:21.318Z
+Honda,CR-V,2012,"22,495","29,995",Original MSRP,2012 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2012,2026-10-23T23:15:22.847Z
+Honda,CR-V,2013,"22,795","30,295",Original MSRP,2013 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2013,2026-10-23T23:15:23.529Z
+Honda,CR-V,2014,"23,120","30,620",Original MSRP,2014 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2014,2026-10-23T23:15:30.695Z
+Honda,CR-V,2015,"23,445","32,895",Original MSRP,2015 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2015,2026-10-23T23:15:31.371Z
+Honda,CR-V,2016,"23,845","33,495",Original MSRP,2016 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2016,2026-10-23T23:15:32.094Z
+Honda,CR-V,2017,"24,045","33,795",Original MSRP,2017 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2017,2026-10-23T23:15:32.723Z
+Honda,CR-V,2018,"24,250","34,150",Original MSRP,2018 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2018,2026-10-23T23:15:33.409Z
+Honda,CR-V,2019,"24,450","34,250",Original MSRP,2019 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2019,2026-10-23T23:15:34.070Z
+Honda,CR-V,2020,"25,150","34,850",Original MSRP,2020 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2020,2026-10-23T23:15:48.890Z
+Honda,CR-V,2021,"25,350","35,150",Original MSRP,2021 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2021,2026-10-23T23:15:49.562Z
+Honda,CR-V,2022,"26,800","36,600",Original MSRP,2022 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2022,2026-10-23T23:15:50.250Z
+Honda,CR-V,2023,"28,410","35,760",Original MSRP,2023 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2023,2026-10-23T23:15:50.995Z
+Honda,CR-V,2024,"29,500","36,160",MSRP,2024 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2024,2026-10-23T23:15:51.898Z
+Honda,CR-V,2025,"30,100","36,500",MSRP,2025 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2025,2026-10-23T23:15:52.782Z
+Honda,CR-V,2026,"30,920","36,900",MSRP,2026 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v/2026,2026-10-23T23:15:54.043Z
+Honda,CR-V,2027,"31,520","37,300",MSRP,2027 Honda CR-V,https://cars.usnews.com/cars-trucks/honda/cr-v,2026-10-23T23:15:55.036Z
+Ford,F-150,2007,"18,275","39,285",MSRP,2007 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2007,2026-10-23T23:16:01.021Z
+Ford,F-150,2008,"17,900","40,205",MSRP,2008 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2008,2026-10-23T23:16:01.828Z
+Ford,F-150,2009,"21,565","44,355",Original MSRP,2009 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2009,2026-10-23T23:16:02.570Z
+Ford,F-150,2010,"22,060","46,740",Original MSRP,2010 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2010,2026-10-23T23:16:03.464Z
+Ford,F-150,2011,"22,790","51,770",Original MSRP,2011 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2011,2026-10-23T23:16:04.130Z
+Ford,F-150,2012,"23,500","52,305",Original MSRP,2012 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2012,2026-10-23T23:16:11.597Z
+Ford,F-150,2013,"24,070","53,300",Original MSRP,2013 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2013,2026-10-23T23:16:22.250Z
+Ford,F-150,2014,"25,025","54,410",Original MSRP,2014 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2014,2026-10-23T23:16:30.984Z
+Ford,F-150,2015,"26,030","55,305",Original MSRP,2015 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2015,2026-10-23T23:16:33.215Z
+Ford,F-150,2016,"26,540","62,310",Original MSRP,2016 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2016,2026-10-23T23:16:33.933Z
+Ford,F-150,2017,"27,110","63,625",Original MSRP,2017 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2017,2026-10-23T23:16:41.832Z
+Ford,F-150,2018,"27,705","64,785",Original MSRP,2018 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2018,2026-10-23T23:16:50.239Z
+Ford,F-150,2019,"28,155","70,560",Original MSRP,2019 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2019,2026-10-23T23:16:50.666Z
+Ford,F-150,2020,"28,745","71,160",Original MSRP,2020 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2020,2026-10-23T23:16:51.196Z
+Ford,F-150,2021,"29,290","76,530",Original MSRP,2021 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2021,2026-10-23T23:16:59.086Z
+Ford,F-150,2022,"31,520","81,085",Original MSRP,2022 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2022,2026-10-23T23:16:59.665Z
+Ford,F-150,2023,"34,585","84,910",Original MSRP,2023 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2023,2026-10-23T23:17:00.197Z
+Ford,F-150,2024,"37,075","78,540",MSRP,2024 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2024,2026-10-23T23:17:00.862Z
+Ford,F-150,2025,"37,450","79,005",MSRP,2025 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150/2025,2026-10-23T23:17:01.689Z
+Ford,F-150,2026,"37,290","79,005",MSRP,2026 Ford F-150,https://cars.usnews.com/cars-trucks/ford/f-150,2026-10-23T23:17:02.426Z
+Ford,Escape,2008,"19,140","21,685",MSRP,2008 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2008,2026-10-23T23:17:09.926Z
+Ford,Escape,2009,"20,435","27,670",Original MSRP,2009 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2009,2026-10-23T23:17:10.572Z
+Ford,Escape,2010,"21,020","27,375",Original MSRP,2010 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2010,2026-10-23T23:17:11.277Z
+Ford,Escape,2011,"21,240","33,080",Original MSRP,2011 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2011,2026-10-23T23:17:19.085Z
+Ford,Escape,2012,"21,440","28,120",Original MSRP,2012 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2012,2026-10-23T23:17:19.671Z
+Ford,Escape,2013,"22,470","32,120",Original MSRP,2013 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2013,2026-10-23T23:17:20.289Z
+Ford,Escape,2014,"23,100","30,850",Original MSRP,2014 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2014,2026-10-23T23:17:20.814Z
+Ford,Escape,2015,"23,450","31,485",Original MSRP,2015 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2015,2026-10-23T23:17:21.370Z
+Ford,Escape,2016,"23,590","31,745",Original MSRP,2016 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2016,2026-10-23T23:17:27.019Z
+Ford,Escape,2017,"23,750","31,000",Original MSRP,2017 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2017,2026-10-23T23:17:27.559Z
+Ford,Escape,2018,"23,940","33,490",Original MSRP,2018 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2018,2026-10-23T23:17:28.116Z
+Ford,Escape,2019,"24,105","34,120",Original MSRP,2019 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2019,2026-10-23T23:17:36.253Z
+Ford,Escape,2020,"24,885","36,835",Original MSRP,2020 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2020,2026-10-23T23:17:37.068Z
+Ford,Escape,2021,"25,555","36,455",Original MSRP,2021 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2021,2026-10-23T23:17:45.073Z
+Ford,Escape,2022,"27,185","37,305",Original MSRP,2022 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2022,2026-10-23T23:17:45.777Z
+Ford,Escape,2023,"28,000","39,460",Original MSRP,2023 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2023,2026-10-23T23:17:46.352Z
+Ford,Escape,2024,"29,495","32,660",MSRP,2024 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2024,2026-10-23T23:17:53.130Z
+Ford,Escape,2025,"29,515","31,760",MSRP,2025 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape/2025,2026-10-23T23:17:53.811Z
+Ford,Escape,2026,"30,350","31,750",MSRP,2026 Ford Escape,https://cars.usnews.com/cars-trucks/ford/escape,2026-10-23T23:17:54.670Z
+Ford,Explorer,2007,"25,370","35,365",MSRP,2007 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2007,2026-10-23T23:18:01.730Z
+Ford,Explorer,2008,"26,495","36,690",MSRP,2008 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2008,2026-10-23T23:18:02.520Z
+Ford,Explorer,2009,"28,470","39,180",Original MSRP,2009 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2009,2026-10-23T23:18:03.149Z
+Ford,Explorer,2010,"29,280","38,600",Original MSRP,2010 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2010,2026-10-23T23:18:03.679Z
+Ford,Explorer,2011,"28,360","39,535",Original MSRP,2011 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2011,2026-10-23T23:18:04.427Z
+Ford,Explorer,2012,"28,280","39,855",Original MSRP,2012 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2012,2026-10-23T23:18:11.601Z
+Ford,Explorer,2013,"29,100","40,780",Original MSRP,2013 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2013,2026-10-23T23:18:12.218Z
+Ford,Explorer,2014,"30,015","41,675",Original MSRP,2014 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2014,2026-10-23T23:18:12.778Z
+Ford,Explorer,2015,"30,700","43,100",Original MSRP,2015 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2015,2026-10-23T23:18:13.423Z
+Ford,Explorer,2016,"31,050","52,970",Original MSRP,2016 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2016,2026-10-23T23:18:13.985Z
+Ford,Explorer,2017,"31,660","53,235",Original MSRP,2017 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2017,2026-10-23T23:18:14.546Z
+Ford,Explorer,2018,"32,140","53,940",Original MSRP,2018 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2018,2026-10-23T23:18:15.112Z
+Ford,Explorer,2019,"32,365","54,165",Original MSRP,2019 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2019,2026-10-23T23:18:15.697Z
+Ford,Explorer,2020,"32,765","58,250",Original MSRP,2020 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2020,2026-10-23T23:18:21.799Z
+Ford,Explorer,2021,"32,925","54,600",Original MSRP,2021 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2021,2026-10-23T23:18:22.495Z
+Ford,Explorer,2022,"35,510","55,630",Original MSRP,2022 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2022,2026-10-23T23:18:23.076Z
+Ford,Explorer,2023,"36,760","56,525",Original MSRP,2023 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2023,2026-10-23T23:18:23.629Z
+Ford,Explorer,2024,"36,860","56,770",MSRP,2024 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2024,2026-10-23T23:18:24.365Z
+Ford,Explorer,2025,"40,050","56,770",MSRP,2025 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2025,2026-10-23T23:18:25.008Z
+Ford,Explorer,2026,"38,465","56,905",MSRP,2026 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer/2026,2026-10-23T23:18:25.600Z
+Ford,Explorer,2027,"38,465","55,660",MSRP,2027 Ford Explorer,https://cars.usnews.com/cars-trucks/ford/explorer,2026-10-23T23:18:32.637Z
+Nissan,Altima,2008,"18,620","28,670",MSRP,2008 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2008,2026-10-23T23:18:38.922Z
+Nissan,Altima,2009,"19,900","29,380",Original MSRP,2009 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2009,2026-10-23T23:18:39.855Z
+Nissan,Altima,2010,"19,900","30,100",Original MSRP,2010 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2010,2026-10-23T23:18:40.409Z
+Nissan,Altima,2011,"20,270","30,540",Original MSRP,2011 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2011,2026-10-23T23:18:40.953Z
+Nissan,Altima,2012,"20,550","31,200",Original MSRP,2012 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2012,2026-10-23T23:18:41.570Z
+Nissan,Altima,2013,"21,760","30,560",Original MSRP,2013 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2013,2026-10-23T23:18:48.410Z
+Nissan,Altima,2014,"22,170","30,820",Original MSRP,2014 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2014,2026-10-23T23:18:49.096Z
+Nissan,Altima,2015,"22,300","31,950",Original MSRP,2015 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2015,2026-10-23T23:18:49.637Z
+Nissan,Altima,2016,"22,500","32,690",Original MSRP,2016 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2016,2026-10-23T23:18:57.053Z
+Nissan,Altima,2017,"22,500","32,990",Original MSRP,2017 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2017,2026-10-23T23:18:57.662Z
+Nissan,Altima,2018,"23,260","33,630",Original MSRP,2018 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2018,2026-10-23T23:18:58.487Z
+Nissan,Altima,2019,"24,000","35,750",Original MSRP,2019 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2019,2026-10-23T23:18:59.153Z
+Nissan,Altima,2020,"24,300","35,180",Original MSRP,2020 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2020,2026-10-23T23:19:07.175Z
+Nissan,Altima,2021,"24,550","34,250",Original MSRP,2021 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2021,2026-10-23T23:19:07.723Z
+Nissan,Altima,2022,"24,900","34,600",Original MSRP,2022 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2022,2026-10-23T23:19:08.455Z
+Nissan,Altima,2023,"25,630","35,330",Original MSRP,2023 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2023,2026-10-23T23:19:09.227Z
+Nissan,Altima,2024,"26,370","36,070",MSRP,2024 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2024,2026-10-23T23:19:09.890Z
+Nissan,Altima,2025,"27,000","34,830",MSRP,2025 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima/2025,2026-10-23T23:19:10.564Z
+Nissan,Altima,2026,"27,580","30,480",MSRP,2026 Nissan Altima,https://cars.usnews.com/cars-trucks/nissan/altima,2026-10-23T23:19:18.455Z
+Nissan,Rogue,2008,"19,430","22,170",MSRP,2008 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2008,2026-10-23T23:19:25.671Z
+Nissan,Rogue,2009,"20,220","23,010",Original MSRP,2009 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2009,2026-10-23T23:19:32.832Z
+Nissan,Rogue,2010,"20,460","23,300",Original MSRP,2010 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2010,2026-10-23T23:19:33.424Z
+Nissan,Rogue,2011,"21,460","25,680",Original MSRP,2011 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2011,2026-10-23T23:19:35.190Z
+Nissan,Rogue,2012,"22,070","29,710",Original MSRP,2012 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2012,2026-10-23T23:19:36.214Z
+Nissan,Rogue,2013,"20,310","27,950",Original MSRP,2013 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2013,2026-10-23T23:19:52.227Z
+Nissan,Rogue,2014,"22,790","29,630",Original MSRP,2014 Nissan Rogue,https://cars.usnews.com/cars-trucks/nissan/rogue/2014,2026-10-23T23:19:58.937Z

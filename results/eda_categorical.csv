@@ -1,0 +1,12 @@
+attribute,n_unique,top_values
+make,3,Ford (646); Honda (633); Toyota (629)
+model,9,Escape (226); RAV4 (223); CR-V (219); Explorer (218); Civic (215); Camry (205)
+body_type,7,suv (863); sedan (763); truck (202); hatchback (34); coupe (29); other (15)
+drivetrain,3,awd/4wd (970); fwd (898); rwd (40)
+transmission,2,automatic (1886); manual (22)
+fuel_type,4,gas (1738); hybrid (167); electric (2); diesel (1)
+exterior_color,8,white (349); gray (347); black (334); silver (230); blue (213); unknown (187)
+condition,7,not stated (1373); excellent (259); good (171); like new (90); fair (8); salvage (4)
+title_status,5,clean (1855); rebuilt (27); not stated (16); salvage (9); lien (1)
+seller_type,2,dealer (1561); owner (347)
+trim,34,Base/Unknown (285); LE (240); XLT (187); SE (178); EX (135); LX (124)

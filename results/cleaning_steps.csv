@@ -1,0 +1,25 @@
+step,source,before,removed,after
+"make outside the study scope (Nissan, see config.py)",craigslist,1312,322,990
+"make outside the study scope (Nissan, see config.py)",carmax,1560,390,1170
+wrong or different model / wanted ads,craigslist,990,20,970
+wrong or different model / wanted ads,carmax,1170,0,1170
+missing model year,craigslist,970,0,970
+missing model year,carmax,1170,0,1170
+duplicate listing id,craigslist,970,0,970
+duplicate listing id,carmax,1170,0,1170
+duplicate VIN (reposts / cross-source),craigslist,970,0,970
+duplicate VIN (reposts / cross-source),carmax,1170,0,1170
+duplicate repost (same model/year/price/miles),craigslist,970,21,949
+duplicate repost (same model/year/price/miles),carmax,1170,0,1170
+"price missing or outside $1,000-$120,000",craigslist,949,83,866
+"price missing or outside $1,000-$120,000",carmax,1170,0,1170
+odometer missing or implausible,craigslist,866,1,865
+odometer missing or implausible,carmax,1170,0,1170
+"price is a down payment, not the car price",craigslist,865,9,856
+"price is a down payment, not the car price",carmax,1170,0,1170
+title 'parts only',craigslist,856,0,856
+title 'parts only',carmax,1170,0,1170
+no MSRP for that make/model/year,craigslist,856,112,744
+no MSRP for that make/model/year,carmax,1170,0,1170
+retention ratio outside 0.03-2.0,craigslist,744,0,744
+retention ratio outside 0.03-2.0,carmax,1170,6,1164

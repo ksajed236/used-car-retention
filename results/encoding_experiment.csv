@@ -1,0 +1,9 @@
+encoding,model,n_input_columns,cv_MAE,cv_RMSE,cv_R2
+drop,Ridge Regression,65,0.0759,0.1032,0.9057
+drop,Gradient Boosting,65,0.0602,0.086,0.9344
+onehot,Ridge Regression,215,0.0672,0.0908,0.9268
+onehot,Gradient Boosting,215,0.0564,0.0801,0.9429
+frequency,Ridge Regression,67,0.0744,0.1017,0.9083
+frequency,Gradient Boosting,67,0.0576,0.0816,0.9409
+target,Ridge Regression,67,0.0741,0.1005,0.9104
+target,Gradient Boosting,67,0.0593,0.0839,0.9374

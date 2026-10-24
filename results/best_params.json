@@ -1,0 +1,17 @@
+{
+  "Ridge Regression": {
+    "model__alpha": 1.0
+  },
+  "K-Nearest Neighbors": {
+    "model__n_neighbors": 10,
+    "model__weights": "distance"
+  },
+  "Random Forest": {
+    "model__max_features": 0.6,
+    "model__min_samples_leaf": 1
+  },
+  "Gradient Boosting": {
+    "model__max_depth": 4,
+    "model__n_estimators": 600
+  }
+}

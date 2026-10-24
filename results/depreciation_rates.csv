@@ -1,0 +1,14 @@
+group,level,n,pct_value_lost_per_year,pct_value_lost_per_10k_miles,pct_value_lost_per_year_age_only,R2_log_model
+All cars,all,1908,2.788,3.745,4.782,0.845
+Ford,make,646,3.392,3.562,5.201,0.843
+Honda,make,633,3.012,3.567,5.354,0.856
+Toyota,make,629,2.322,3.935,4.087,0.84
+Honda Accord,model,199,4.147,3.034,6.095,0.86
+Honda CR-V,model,219,2.813,3.993,5.608,0.914
+Toyota Camry,model,205,2.132,4.236,3.451,0.895
+Honda Civic,model,215,1.609,4.15,4.149,0.847
+Toyota Corolla,model,201,0.705,3.464,2.713,0.796
+Ford Escape,model,226,3.267,4.352,4.985,0.88
+Ford Explorer,model,218,4.385,4.681,7.279,0.886
+Ford F-150,model,202,3.019,2.181,4.125,0.755
+Toyota RAV4,model,223,4.395,3.573,6.261,0.855

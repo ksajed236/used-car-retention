@@ -1,0 +1,216 @@
+term,feature,coefficient
+model_trim_F-150 Raptor,model_trim,0.30666
+model_trim_F-150 Base/Unknown,model_trim,-0.19225
+model_trim_F-150 XL,model_trim,-0.17372
+model_trim_Explorer ST,model_trim,0.15048
+model_trim_F-150 Platinum,model_trim,0.15014
+model_Escape,model,-0.1382
+age_years,age_years,-0.1359
+model_trim_F-150 STX,model_trim,-0.12257
+model_trim_Corolla S,model_trim,0.11533
+mileage,mileage,-0.10644
+model_trim_RAV4 XSE,model_trim,0.09931
+body_type_truck,body_type,0.09445
+model_F-150,model,0.09445
+model_trim_F-150 XLT,model_trim,-0.09378
+market_harrisburg,market,0.08853
+source_carmax,source,0.08542
+source_craigslist,source,-0.08542
+model_trim_Escape Active,model_trim,-0.08009
+model_trim_infrequent_sklearn,model_trim,0.07807
+condition_infrequent_sklearn,condition,-0.07785
+make_Ford,make,-0.07735
+model_trim_Camry LE,model_trim,-0.07588
+condition_fair,condition,-0.07441
+condition_like new,condition,0.07432
+model_trim_Explorer ST-Line,model_trim,0.07425
+model_trim_F-150 Lariat,model_trim,0.07348
+title_status_not stated,title_status,0.07207
+model_trim_Camry Base/Unknown,model_trim,-0.07073
+title_status_salvage,title_status,-0.06906
+title_status_rebuilt,title_status,-0.06833
+title_status_clean,title_status,0.06532
+model_trim_F-150 King Ranch,model_trim,0.06471
+body_type_other,body_type,-0.06461
+model_trim_Accord Touring,model_trim,0.06375
+msrp_base,msrp_base,-0.06267
+market_scranton,market,-0.06264
+market_new york,market,-0.0625
+body_type_infrequent_sklearn,body_type,-0.06109
+model_trim_Explorer Base/Unknown,model_trim,-0.05858
+model_trim_RAV4 LE,model_trim,-0.05791
+model_trim_Camry XSE,model_trim,0.05701
+market_delaware,market,0.05548
+model_trim_Camry SE,model_trim,-0.05522
+model_trim_Civic Touring,model_trim,0.05291
+market_baltimore,market,-0.05242
+market_allentown,market,0.05239
+model_trim_Accord Sport,model_trim,0.0522
+market_south jersey,market,-0.05146
+model_trim_CR-V LX,model_trim,-0.05107
+make_Toyota,make,0.0497
+model_trim_Corolla L,model_trim,0.0483
+model_trim_Accord Base/Unknown,model_trim,-0.04825
+market_williamsport,market,-0.04796
+model_trim_Explorer XLT,model_trim,-0.04761
+model_trim_Accord SE,model_trim,-0.04468
+model_trim_Explorer Platinum,model_trim,0.04384
+"market_jacksonville, nc",market,-0.04383
+"market_greenville, sc",market,0.04372
+model_trim_CR-V Base/Unknown,model_trim,-0.04349
+condition_not stated,condition,0.04157
+fuel_type_gas,fuel_type,-0.04154
+model_trim_Explorer Sport,model_trim,-0.04058
+"market_fredericksburg, va",market,0.04014
+"market_albany, ny",market,-0.03811
+model_trim_Civic LX,model_trim,-0.03806
+body_type_coupe,body_type,0.03782
+model_trim_CR-V SE,model_trim,-0.03651
+"market_manchester, nh",market,-0.03599
+model_trim_Escape XLT,model_trim,0.03581
+"market_frederick, md",market,0.03507
+market_north jersey,market,-0.03494
+model_trim_Escape S,model_trim,-0.03459
+drivetrain_awd/4wd,drivetrain,0.03432
+condition_excellent,condition,0.03367
+model_Explorer,model,-0.0336
+"market_white marsh, md",market,0.03238
+model_trim_CR-V EX,model_trim,-0.03222
+model_trim_CR-V Touring,model_trim,0.031
+model_trim_Corolla Base/Unknown,model_trim,-0.03047
+market_philadelphia,market,-0.0303
+msrp_spread,msrp_spread,0.03006
+"market_king of prussia, pa",market,0.02972
+"market_langhorne, pa",market,0.02948
+model_trim_F-150 Limited,model_trim,-0.02909
+model_trim_Explorer Active,model_trim,0.02867
+model_Civic,model,0.02797
+drivetrain_rwd,drivetrain,-0.02766
+make_Honda,make,0.02765
+"market_winston salem, nc",market,-0.02754
+"market_edison, nj",market,0.02553
+"market_sterling, va",market,0.02546
+"market_charlottesville, va",market,0.02536
+"market_hagerstown, md",market,0.02523
+model_Camry,model,0.02478
+model_trim_Escape SEL,model_trim,-0.02462
+"market_tinley park, il",market,-0.0246
+model_trim_Accord EX,model_trim,-0.02451
+premium_feature_count,premium_feature_count,0.02392
+model_RAV4,model,0.02367
+fuel_type_hybrid,fuel_type,0.02317
+"market_merrillville, in",market,-0.02291
+"market_mechanicsburg, pa",market,0.0229
+"market_newark, de",market,0.0224
+"market_cranston, ri",market,0.02239
+model_trim_Escape SE,model_trim,-0.02213
+"market_raleigh, nc",market,0.02212
+"market_fayetteville, nc",market,-0.0206
+"market_greensboro, nc",market,-0.02053
+market_jersey shore,market,-0.02051
+"market_green brook, nj",market,-0.02033
+"market_gaithersburg, md",market,0.02031
+"market_woodbridge, va",market,0.02026
+body_type_hatchback,body_type,0.01981
+"market_hartford, ct",market,-0.01939
+model_trim_Escape Sport,model_trim,-0.01899
+"market_brandywine, md",market,0.01868
+fuel_type_infrequent_sklearn,fuel_type,0.01837
+model_trim_Explorer Limited,model_trim,-0.01831
+model_trim_Escape Base/Unknown,model_trim,0.0182
+"market_saint james, ny",market,-0.01817
+miles_per_year,miles_per_year,-0.01773
+"market_washington, dc",market,0.01759
+body_type_sedan,body_type,-0.01729
+"market_york, pa",market,0.017
+"market_east haven, ct",market,0.01665
+"market_waterbury, ct",market,0.0165
+model_trim_Corolla LE,model_trim,-0.01576
+"market_north attleboro, ma",market,-0.01561
+"market_charlotte, nc",market,-0.01492
+transmission_manual,transmission,0.01467
+transmission_automatic,transmission,-0.01467
+market_central nj,market,-0.01429
+market_long island,market,0.01363
+"market_westborough, ma",market,-0.01314
+model_trim_Camry XLE,model_trim,-0.01314
+market_infrequent_sklearn,market,-0.01312
+"market_glen allen, va",market,0.01215
+model_trim_Escape Titanium,model_trim,0.01176
+desc_prior_rental_fleet,desc_prior_rental_fleet,-0.0115
+model_trim_RAV4 XLE,model_trim,0.01106
+market_new haven,market,-0.01096
+"market_gastonia, nc",market,-0.01064
+"market_myrtle beach, sc",market,0.01038
+model_trim_Civic EX-L,model_trim,0.01028
+model_trim_CR-V EX-L,model_trim,-0.01027
+cylinders,cylinders,0.00993
+desc_word_count,desc_word_count,0.00944
+"market_carmel, in",market,-0.00934
+"market_winchester, va",market,-0.00934
+exterior_color_unknown,exterior_color,-0.0093
+"market_rochester, ny",market,0.00909
+body_type_suv,body_type,-0.00909
+"market_kentwood, mi",market,-0.00873
+"market_south portland, me",market,-0.00871
+seller_type_dealer,seller_type,0.00869
+seller_type_owner,seller_type,-0.00869
+"market_salisbury, md",market,0.00862
+exterior_color_silver,exterior_color,0.00815
+"market_winterville, nc",market,0.00774
+exterior_color_gray,exterior_color,-0.0077
+"market_wayne, nj",market,0.00763
+model_trim_Explorer Timberline,model_trim,0.00743
+"market_lynchburg, va",market,-0.00741
+model_trim_Escape ST-Line,model_trim,0.00669
+"market_easton, pa",market,-0.00668
+drivetrain_fwd,drivetrain,-0.00666
+exterior_color_other,exterior_color,0.00648
+"market_buffalo, ny",market,-0.00619
+"market_columbus, oh",market,0.00575
+"market_schaumburg, il",market,0.00568
+model_trim_Accord LX,model_trim,-0.00542
+"market_harrisonburg, va",market,-0.0052
+"market_lancaster, pa",market,-0.00506
+"market_danvers, ma",market,-0.00488
+model_Accord,model,-0.00479
+model_CR-V,model,0.00446
+"market_wilmington, nc",market,0.00419
+days_listed,days_listed,-0.00405
+model_trim_RAV4 Base/Unknown,model_trim,0.00388
+"market_virginia beach, va",market,0.00383
+model_trim_RAV4 Sport,model_trim,0.00372
+model_trim_Civic Base/Unknown,model_trim,0.0037
+model_trim_Corolla SE,model_trim,0.00355
+"market_newport news, va",market,0.00355
+desc_one_owner,desc_one_owner,0.00349
+exterior_color_black,exterior_color,0.00335
+"market_madison, tn",market,0.00318
+model_trim_Civic Sport,model_trim,-0.00299
+"market_murfreesboro, tn",market,-0.00295
+"market_sicklerville, nj",market,0.00277
+condition_good,condition,0.0027
+model_trim_Civic EX,model_trim,0.00266
+"market_ellicott city, md",market,0.0026
+exterior_color_white,exterior_color,-0.00258
+model_trim_RAV4 Limited,model_trim,0.00253
+"market_midlothian, va",market,-0.00252
+"market_laurel, md",market,0.00251
+"market_roswell, ga",market,0.00246
+model_trim_Accord EX-L,model_trim,0.00212
+distance_miles,distance_miles,0.00205
+"market_east meadow, ny",market,-0.00189
+"market_savannah, ga",market,-0.00179
+desc_no_accidents,desc_no_accidents,0.0017
+"market_columbia, sc",market,-0.00157
+exterior_color_red,exterior_color,0.00142
+model_Corolla,model,0.00125
+"market_bristol, tn",market,-0.00087
+"market_maple shade, nj",market,-0.00081
+desc_needs_work,desc_needs_work,0.00065
+"market_mays landing, nj",market,-0.00053
+desc_warranty,desc_warranty,-0.00047
+"market_dayton, oh",market,0.00045
+market_hudson valley,market,0.00038
+desc_recent_service,desc_recent_service,0.00037
+exterior_color_blue,exterior_color,0.00018

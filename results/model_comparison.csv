@@ -1,0 +1,6 @@
+model,cv_MAE,cv_MAE_sd,cv_RMSE,cv_RMSE_sd,cv_R2,cv_R2_sd,test_MAE,test_RMSE,test_R2,test_MAE_dollars,best_params,high_card_encoding
+Ridge Regression,0.0672,0.0031,0.0908,0.0045,0.9268,0.008,0.0734,0.1063,0.9052,1782.5605,"{""model__alpha"": 1.0}",onehot
+K-Nearest Neighbors,0.0921,0.0044,0.1241,0.0072,0.8632,0.0152,0.0903,0.1266,0.8654,2231.7413,"{""model__n_neighbors"": 10, ""model__weights"": ""distance""}",onehot
+Random Forest,0.0615,0.0041,0.0888,0.0081,0.9301,0.0103,0.0672,0.1055,0.9066,1667.3573,"{""model__max_features"": 0.6, ""model__min_samples_leaf"": 1}",onehot
+Gradient Boosting,0.0521,0.0033,0.0759,0.0077,0.9487,0.0098,0.0546,0.0883,0.9346,1340.8734,"{""model__max_depth"": 4, ""model__n_estimators"": 600}",onehot
+Baseline (mean ratio),,,,,,,0.2889,0.3452,-0.0,7187.0777,,

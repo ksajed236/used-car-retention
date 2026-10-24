@@ -1,0 +1,6 @@
+# trained models are rebuilt by run_pipeline.py (the random forest alone is ~40 MB)
+results/*.joblib
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_to_delete/

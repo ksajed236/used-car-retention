@@ -1,0 +1,2 @@
+model,cv_MAE,cv_MAE_sd,cv_RMSE,cv_RMSE_sd,cv_R2,cv_R2_sd,test_MAE,test_RMSE,test_R2,test_MAE_dollars,best_params,high_card_encoding
+K-Nearest Neighbors,0.09214492771131991,0.004395362975940856,0.12412850939199346,0.0071712161491853535,0.8631719475850973,0.015177978743493602,0.0902713681074914,0.12664518525509938,0.8654220004124141,2231.741293236873,"{""model__n_neighbors"": 10, ""model__weights"": ""distance""}",onehot

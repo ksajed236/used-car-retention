@@ -1,0 +1,7 @@
+,median_ratio_without,median_ratio_with
+desc_one_owner,0.662,0.983
+desc_no_accidents,0.85,0.491
+desc_needs_work,0.845,0.239
+desc_recent_service,0.867,0.417
+desc_warranty,0.78,1.069
+desc_prior_rental_fleet,0.706,0.983
